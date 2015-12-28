@@ -18,19 +18,14 @@ Being consistent will reduce lead time required to understand your code, and if 
 
 This is a guide for writing consistent and aesthetically pleasing CSS and SCSS code. It is inspired by Dropbox's (S)CSS style-guide.
 
-There is a .jscsrc file which enforces these rules as closely as possible. You can either use that and adjust it, or use this script to make your own. You can install JSCS via NPM using `npm install jscs -g`. There are also a large number of plug-ins available for use in your favorite editor or task manager.
+There are a large number of linting plug-ins available for use in your favorite editor or task manager.
 
-* Atom plugin: [https://atom.io/packages/linter-jscs](https://atom.io/packages/linter-jscs)
-* Brackets Extension: [https://github.com/globexdesigns/brackets-jscs](https://github.com/globexdesigns/brackets-jscs)
-* Grunt task: [https://github.com/jscs-dev/grunt-jscs/](https://github.com/jscs-dev/grunt-jscs/)
-* Gulp task: [https://github.com/jscs-dev/gulp-jscs/](https://github.com/jscs-dev/gulp-jscs/)
-* Overcommit Git pre-commit hook manager: [https://github.com/brigade/overcommit/](https://github.com/brigade/overcommit/)
-* SublimeText 3 Plugin: [https://github.com/SublimeLinter/SublimeLinter-jscs/](https://github.com/SublimeLinter/SublimeLinter-jscs/)
-* Syntastic VIM Plugin: [https://github.com/scrooloose/syntastic/blob/master/syntax_checkers/javascript/jscs.vim/](https://github.com/scrooloose/syntastic/blob/master/syntax_checkers/javascript/jscs.vim/)
-* Web Essentials for Visual Studio 2013: [https://github.com/madskristensen/WebEssentials2013/](https://github.com/madskristensen/WebEssentials2013/)
-* IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm plugin: [https://www.jetbrains.com/webstorm/help/jscs.html](https://www.jetbrains.com/webstorm/help/jscs.html)
+* Atom plugin: [https://atom.io/packages/linter-scss-lint](https://atom.io/packages/linter-scss-lint)
+* Brackets Extension: [https://github.com/chimo/brackets-scss-lint](https://github.com/chimo/brackets-scss-lint)
+* SublimeText 3 Plugin: [https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
 
-This guide was created by [Joseph Szczesniak](https://github.com/NukaPunk) and is licensed under the [is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). You are encouraged to fork this repository and make adjustments according to your preferences.
+
+This guide was created by [Kristy Wessel](https://github.com/kristywessel) and is licensed under the [is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). You are encouraged to fork this repository and make adjustments according to your preferences.
 
 ![CC BY SA 4.0 License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
